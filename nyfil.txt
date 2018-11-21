@@ -3,3 +3,6 @@ en första textrad!
 nästa rad med text...
 
 tredje woohoo!!!
+
+------------
+ändrig nr 4
